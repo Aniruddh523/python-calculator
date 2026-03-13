@@ -1,6 +1,6 @@
 '''
 IMP NOTE-----
- IF YOU WANT TO EXIT THE GAME THEN ENTER CTR+z
+ IF YOU WANT TO EXIT THE calculator THEN ENTER CTR+z
 '''
 
 
@@ -34,5 +34,6 @@ while True:
 
 
     
+
 
 
